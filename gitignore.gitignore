@@ -1,0 +1,9 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# environment variables
+.env
+
+# logs
+npm-debug.log*
