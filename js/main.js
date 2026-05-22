@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // TYPING EFFECT
   // ==========================================
   const typingText = document.getElementById('typing-text');
-  const words = ['Full Stack Engineer', 'ASP.NET Core Developer', 'Laravel Developer', 'React Developer'];
+  const words = ['Full Stack Software Engineer', 'ASP.NET Core Developer', 'Laravel Developer', 'React Developer'];
   let wordIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
